@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. My name is George 👋
 
 - 🔭 I’m currently studying Physics of Data at University of Padova
 - 🌱 Focusing on Deep Learning & Reinforcement Learning at the moment
